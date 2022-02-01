@@ -118,14 +118,14 @@ text-align: end;
 #tg p {
     color: black;
     font-family: 'Ubuntu', cursive;
-    font-size: 14px;
+    font-size: 16;
     text-align: center; 
 }
 
 #tg h3 {
     color: black;
     font-family: 'Ubuntu', serif;
-    font-size: 16px;
+    font-size: 18;
     text-align: center;
 }
 
@@ -137,10 +137,36 @@ text-align: end;
 }
 
 #tg{
+    color: darkblue;
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 18
+    text-align: end;
+}
+#avaliacao h3 {
+    color: black;
+    font-family: 'Ubuntu', serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+#tg h5{
     color: black;
     font-family: 'Ubuntu', sans-serif; 
     font-size: 14px;
     text-align: center;
+}
+#avaliacao p {
+    color: black;
+    font-family: 'Ubuntu', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+#avaliacao h5{
+color: darkblue;
+font-family: 'Ubuntu', sans-serif;
+font-size: 18px;
+text-align: end;
 }
 
 body{
